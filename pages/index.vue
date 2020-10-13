@@ -24,7 +24,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub
+          GitHub PROVA
         </a>
       </div>
     </div>

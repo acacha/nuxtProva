@@ -14,6 +14,10 @@
         >
           Documentation
         </a>
+
+        <nuxt-link to="/users" tag="a" class="button--green">Users</nuxt-link>
+        <nuxt-link to="/login" tag="a" class="button--green">Login</nuxt-link>
+
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
